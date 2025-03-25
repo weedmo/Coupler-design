@@ -13,7 +13,6 @@ Our objective was to design a 4-bar linkage coupler that satisfies given positio
 - **Team Members:**  
   - Joonmo Han (Team Lead)  
   - Dongwan Ko  
-  - Takyoung Kim  
   - Juhwan Park  
   - Gunho Lee  
   - Hoyoung Jeon  
