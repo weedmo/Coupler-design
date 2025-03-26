@@ -60,8 +60,8 @@ Our objective was to design a 4-bar linkage coupler that satisfies given positio
 ## 🏁 Result
 <!-- 위에 2개 나란히 배치 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1dbec647-8a19-4e9d-8753-3188c3ab69c1" width="45%" style="margin-right:10px;">
-  <img src="https://github.com/user-attachments/assets/e588e8d2-3a52-42ea-9ed1-b75edd06d6bd" width="45%" height='300'>
+  <img src="https://github.com/user-attachments/assets/1dbec647-8a19-4e9d-8753-3188c3ab69c1" width="40%" style="margin-right:10px;">
+  <img src="https://github.com/user-attachments/assets/e588e8d2-3a52-42ea-9ed1-b75edd06d6bd" width="60%" >
 </p>
 
 <!-- 아래에 1개 가운데 정렬 -->
