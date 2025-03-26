@@ -60,17 +60,15 @@ Our objective was to design a 4-bar linkage coupler that satisfies given positio
 ## 🏁 Result
 <!-- 위에 2개 나란히 배치 -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1dbec647-8a19-4e9d-8753-3188c3ab69c1)
-" width="45%" style="margin-right:10px;">
-  <img src="![image](https://github.com/user-attachments/assets/e588e8d2-3a52-42ea-9ed1-b75edd06d6bd)
-" width="45%">
+  <img src="https://github.com/user-attachments/assets/1dbec647-8a19-4e9d-8753-3188c3ab69c1" width="45%" style="margin-right:10px;">
+  <img src="https://github.com/user-attachments/assets/e588e8d2-3a52-42ea-9ed1-b75edd06d6bd" width="45%">
 </p>
 
 <!-- 아래에 1개 가운데 정렬 -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/fa4c1a60-5ad6-485f-8492-0c398691e3d7)
-" width="60%">
+  <img src="https://github.com/user-attachments/assets/fa4c1a60-5ad6-485f-8492-0c398691e3d7" width="60%">
 </p>
+
 
 - Among the three models, the third configuration (with both driving and rotating joints placed lower) yielded:
   - The most stable motion
